@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "name": "Start button",
+      "ok": true
+    },
+    {
+      "name": "Touch left control",
+      "ok": true
+    },
+    {
+      "name": "Keyboard lane control",
+      "ok": true
+    },
+    {
+      "name": "Keyboard jump",
+      "ok": true
+    },
+    {
+      "name": "Pause button",
+      "ok": true
+    },
+    {
+      "name": "Resume button",
+      "ok": true
+    },
+    {
+      "name": "Swipe right",
+      "ok": true
+    },
+    {
+      "name": "Sound button state",
+      "ok": true
+    },
+    {
+      "name": "Instructions open",
+      "ok": true
+    },
+    {
+      "name": "Instructions close",
+      "ok": true
+    },
+    {
+      "name": "No external asset requests",
+      "ok": true
+    },
+    {
+      "name": "Brand text has no unresolved tokens",
+      "ok": true
+    }
+  ],
+  "requests": []
+}

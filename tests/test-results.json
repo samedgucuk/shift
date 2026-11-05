@@ -1,0 +1,158 @@
+{
+  "results": [
+    {
+      "name": "Running advances distance",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Pause freezes simulation",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Resume runs",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Left lane responds",
+      "ok": true,
+      "data": -2.9736299122917864
+    },
+    {
+      "name": "Right lane responds",
+      "ok": true,
+      "data": 2.9474916184254862
+    },
+    {
+      "name": "Jump clears a low barrier height",
+      "ok": true,
+      "data": 2.0627777777777765
+    },
+    {
+      "name": "Jump lands back on road",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Barrier collision ends run",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Jump avoids barrier",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Standing hits overhead gate",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Slide passes under gate",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Slide does not bypass low barrier",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Lane change avoids van",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Coin collection updates score",
+      "ok": true,
+      "data": 1
+    },
+    {
+      "name": "Shield absorbs one collision",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Consumed shield no longer protects",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Boost breaks vehicles",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Boost increases speed",
+      "ok": true,
+      "data": 22.45739259505246
+    },
+    {
+      "name": "Magnet attracts adjacent lane coins",
+      "ok": true,
+      "data": 1
+    },
+    {
+      "name": "Flight lifts player",
+      "ok": true,
+      "data": 3.542509881350631
+    },
+    {
+      "name": "Flight clears tall vehicles",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Flight expires and lands safely",
+      "ok": true,
+      "data": 0
+    },
+    {
+      "name": "World bonus activates on touch",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "1000 generated patterns retain an open lane",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Long run stays stable",
+      "ok": true,
+      "data": "running"
+    },
+    {
+      "name": "Difficulty and speed increase",
+      "ok": true,
+      "data": {
+        "difficulty": 8,
+        "speed": 30.000000000000064
+      }
+    },
+    {
+      "name": "Entity count bounded",
+      "ok": true,
+      "data": 24
+    },
+    {
+      "name": "Particle count bounded",
+      "ok": true,
+      "data": 11
+    },
+    {
+      "name": "WebGL has no errors",
+      "ok": true,
+      "data": ""
+    },
+    {
+      "name": "Renderer uses instanced draw calls",
+      "ok": true,
+      "data": 10
+    }
+  ],
+  "pageErrors": []
+}
